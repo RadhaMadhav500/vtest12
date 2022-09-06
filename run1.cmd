@@ -1,0 +1,1 @@
+C:\utils\maven\bin\mvn.cmd spring-boot:run
