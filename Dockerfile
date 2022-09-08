@@ -1,4 +1,4 @@
-FROM quay.io/eclispse/che-java11-maven
+FROM maven:3.8.6-jdk-11
 USER root
 
 #COPY target/*.jar /opt/hello1-ver1.jar
